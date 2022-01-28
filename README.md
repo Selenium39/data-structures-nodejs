@@ -29,7 +29,17 @@
 ## Install
 
 ```sh
-npm install
+npm i data-structures-nodejs
+```
+
+## Example
+```
+const { Queue } = require('data-structures-nodejs')
+const queue = new Queue()
+queue.enqueue(1)
+queue.enqueue(2)
+queue.dequeue() // 1
+queue.dequeue() // 2
 ```
 
 ## Author
