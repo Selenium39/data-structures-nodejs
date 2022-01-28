@@ -14,7 +14,17 @@
 
 > vary data structures implements by nodejs
 
-### 🏠 [Homepage](https://github.com/wantao666/data-structures-nodejs#readme)
+```
+.
+├── queue
+│   ├── array_queue.js
+│   └── linked_queue.js
+├── stack
+│   ├── array_stack.js
+│   └── linked_stack.js
+└── tree
+    └── tree.js
+```
 
 ## Install
 
